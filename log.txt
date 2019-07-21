@@ -1,0 +1,120 @@
+--------------------------------------------------------------------
+Venue Name: The Cutting Room
+Venue Location: New York
+Date of the Event: NaN
+--------------------------------------------------------------------
+Venue Name: Nordstock Music Festival
+Venue Location: Ottawa
+Date of the Event: NaN
+--------------------------------------------------------------------
+Venue Name: MilkBoy Philadelphia
+Venue Location: Philadelphia
+Date of the Event: NaN
+--------------------------------------------------------------------
+Venue Name: Paloma Bar
+Venue Location: Berlin
+Date of the Event: NaN
+--------------------------------------------------------------------
+Venue Name: The Plowright Theatre
+Venue Location: Scunthorpe
+Date of the Event: NaN
+--------------------------------------------------------------------
+Artist(s): Harry Styles
+Song Name: Sign of the Times
+Album Name: Harry Styles
+Preview Link: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+--------------------------------------------------------------------
+Artist(s): Lil Wayne
+Song Name: Scared of the Dark (feat. XXXTENTACION)
+Album Name: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+Preview Link: null
+--------------------------------------------------------------------
+Artist(s): Ace of Base
+Song Name: The Sign
+Album Name: The Sign (US Album) [Remastered]
+Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+--------------------------------------------------------------------
+Artist(s): Ty Dolla $ign
+Song Name: Or Nah (feat. The Weeknd, Wiz Khalifa & DJ Mustard) - Remix
+Album Name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+Preview Link: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+--------------------------------------------------------------------
+Artist(s): Dreamville
+Song Name: Got Me (with Ari Lennox & Omen feat. Ty Dolla $ign & Dreezy)
+Album Name: Revenge Of The Dreamers III
+Preview Link: null
+--------------------------------------------------------------------
+Artist(s): Jeremih
+Song Name: Impatient
+Album Name: Late Nights: The Album
+Preview Link: null
+--------------------------------------------------------------------
+Artist(s): Harry Styles
+Song Name: Sign of the Times
+Album Name: Sign of the Times
+Preview Link: https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+--------------------------------------------------------------------
+Artist(s): The Chainsmokers
+Song Name: Do You Mean (with Ty Dolla $ign & bülow)
+Album Name: World War Joy
+Preview Link: https://p.scdn.co/mp3-preview/cd53826cc7865a498b2c3615a396e25297bbc849?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+--------------------------------------------------------------------
+Artist(s): Jeremih
+Song Name: The Light
+Album Name: The Light
+Preview Link: null
+--------------------------------------------------------------------
+Artist(s): Mac Miller
+Song Name: Cinderella (feat. Ty Dolla $ign)
+Album Name: The Divine Feminine
+Preview Link: https://p.scdn.co/mp3-preview/1f797d8ec6a6ca7dd84d9a6d496bc92748d24557?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+--------------------------------------------------------------------
+Artist(s): Backstreet Boys
+Song Name: I Want It That Way
+Album Name: The Hits--Chapter One
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+--------------------------------------------------------------------
+Artist(s): Backstreet Boys
+Song Name: I Want It That Way
+Album Name: Millennium
+Preview Link: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+--------------------------------------------------------------------
+Artist(s): Backstreet Boys
+Song Name: I Want It That Way - Reimagined
+Album Name: I Want It That Way (Reimagined)
+Preview Link: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+--------------------------------------------------------------------
+Artist(s): "Weird Al" Yankovic
+Song Name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Album Name: Poodle Hat
+Preview Link: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+--------------------------------------------------------------------
+Artist(s): Mick Jensen
+Song Name: I Want It That Way
+Album Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+--------------------------------------------------------------------
+Artist(s): Jess and Gabriel
+Song Name: I Want It That Way
+Album Name: Under the Covers, Vol. 3
+Preview Link: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+--------------------------------------------------------------------
+Artist(s): Tyler and Mark
+Song Name: I Want It That Way
+Album Name: Beautiful Dreams
+Preview Link: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+--------------------------------------------------------------------
+Artist(s): Backstreet Boys
+Song Name: I Want It That Way
+Album Name: 90 Sweet 90s Hits!
+Preview Link: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+--------------------------------------------------------------------
+Artist(s): Dynamite Boy
+Song Name: I Want It That Way
+Album Name: Punk Goes Pop
+Preview Link: null
+--------------------------------------------------------------------
+Artist(s): Anthem Lights
+Song Name: I Want It That Way
+Album Name: Covers Part IV
+Preview Link: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=dcdc7ba7d22f4208bb386cd94eb3a820
