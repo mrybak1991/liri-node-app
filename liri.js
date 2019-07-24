@@ -1,16 +1,17 @@
 require("dotenv").config();
 
+// variables to link the different NPM packages and other files
 var axios = require("axios");
 var fs = require("fs");
 var keys = require("./keys.js");
-var moment = require('moment'); //Both required to use moment for node
+var moment = require('moment'); 
 moment().format()
 var Spotify = require('node-spotify-api');
 var spotify = new Spotify(keys.spotify);
 var userOptions = process.argv[2]; 
 var userInput = process.argv[3]; 
 
-
+// switch function to allow for multiple inputs 
     switch (userOptions) {
         case 'concert-this':
             showConcertInfo(userInput);
@@ -29,22 +30,7 @@ var userInput = process.argv[3];
 
     };
 
-    // function showSongInfo(songInfo) {
-    //     spotify.search({ type: "track", query: songInfo }, function(err, data) {
-    //       if (err) {
-    //         return console.log("Error occurred: " + err);
-    //       }
-    //       console.log(data);
-    //     });
-    //   }
-
-
-// // function showConcertInfo (userInput) {
-// //     var queryUrl = "https://rest.bandsintown.com/artists/" + userInput + 
-// // }
-
-
-
+// function to search OMDB database 
 function showMovieInfo(userInput) {
     if(!userInput){
         userInput = "mr nobody";
@@ -69,8 +55,9 @@ function showMovieInfo(userInput) {
         console.log(error);
     });
     
-}
+};
 
+// function to search spotify 
 function showSongInfo(userInput) {
     if(!userInput){
         userInput = "The Sign";
@@ -96,19 +83,20 @@ function showSongInfo(userInput) {
     });
 }
 
+// function to search through concert info 
 function showConcertInfo() {
     axios.get("https://rest.bandsintown.com/artists/" + userInput + "/events?app_id=codingbootcamp")
     .then(function(response) {    
         for (var i = 0; i < response.data.length; i++) {
 
-            var datetime = response.data[i].datetime; //Saves datetime response into a variable
-            var dateArr = datetime.split('T'); //Attempting to split the date and time in the response
+            var datetime = response.data[i].datetime; 
+            var dateArr = datetime.split('T'); 
 
             var concertResults = 
                 "--------------------------------------------------------------------" +
                     "\nVenue Name: " + response.data[i].venue.name + 
                     "\nVenue Location: " + response.data[i].venue.city +
-                    "\nDate of the Event: " + moment(dateArr[0], "MM-DD-YYYY"); //dateArr[0] should be the date separated from the time
+                    "\nDate of the Event: " + moment(dateArr[0], "YYYY-DD-MM").format("MM-DD-YYYY"); 
             console.log(concertResults); 
             outputData(concertResults);
         }
@@ -120,12 +108,14 @@ function showConcertInfo() {
 
 }
 
+// bonus to add search results --- added to each function
 function outputData(data) {
     fs.appendFile('log.txt', data + '\n', function (err) {
         if (err) throw err
         console.log('file appended')
     })
 }
+
 
 function showSomeInfo() {
     fs.readFile('random.txt', "utf8",function(err, res) {

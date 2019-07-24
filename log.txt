@@ -118,3 +118,317 @@ Artist(s): Anthem Lights
 Song Name: I Want It That Way
 Album Name: Covers Part IV
 Preview Link: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+--------------------------------------------------------------------
+Artist(s): Backstreet Boys
+Song Name: I Want It That Way
+Album Name: The Hits--Chapter One
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+--------------------------------------------------------------------
+Artist(s): Backstreet Boys
+Song Name: I Want It That Way
+Album Name: Millennium
+Preview Link: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+--------------------------------------------------------------------
+Artist(s): Anthem Lights
+Song Name: I Want It That Way
+Album Name: Covers Part IV
+Preview Link: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+--------------------------------------------------------------------
+Artist(s): Backstreet Boys
+Song Name: I Want It That Way - Reimagined
+Album Name: I Want It That Way (Reimagined)
+Preview Link: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+--------------------------------------------------------------------
+Artist(s): "Weird Al" Yankovic
+Song Name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Album Name: Poodle Hat
+Preview Link: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+--------------------------------------------------------------------
+Artist(s): Jess and Gabriel
+Song Name: I Want It That Way
+Album Name: Under the Covers, Vol. 3
+Preview Link: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+--------------------------------------------------------------------
+Artist(s): Mick Jensen
+Song Name: I Want It That Way
+Album Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+--------------------------------------------------------------------
+Artist(s): Tyler and Mark
+Song Name: I Want It That Way
+Album Name: Beautiful Dreams
+Preview Link: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+--------------------------------------------------------------------
+Artist(s): Backstreet Boys
+Song Name: I Want It That Way
+Album Name: 90 Sweet 90s Hits!
+Preview Link: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+--------------------------------------------------------------------
+Artist(s): Dynamite Boy
+Song Name: I Want It That Way
+Album Name: Punk Goes Pop
+Preview Link: null
+--------------------------------------------------------------------
+Venue Name: The Cutting Room
+Venue Location: New York
+Date of the Event: Invalid date
+--------------------------------------------------------------------
+Venue Name: Nordstock Music Festival
+Venue Location: Ottawa
+Date of the Event: 09-08-2019
+--------------------------------------------------------------------
+Venue Name: Paloma Bar
+Venue Location: Berlin
+Date of the Event: Invalid date
+--------------------------------------------------------------------
+Venue Name: MilkBoy Philadelphia
+Venue Location: Philadelphia
+Date of the Event: Invalid date
+--------------------------------------------------------------------
+Venue Name: The Plowright Theatre
+Venue Location: Scunthorpe
+Date of the Event: Invalid date
+--------------------------------------------------------------------
+Venue Name: Pechanga Arena
+Venue Location: San Diego
+Date of the Event: Invalid date
+--------------------------------------------------------------------
+Venue Name: Comerica Theatre
+Venue Location: Phoenix
+Date of the Event: Invalid date
+--------------------------------------------------------------------
+Venue Name: El Paso County Coliseum
+Venue Location: El Paso
+Date of the Event: 12-10-2019
+--------------------------------------------------------------------
+Venue Name: Rosemont Theatre
+Venue Location: Rosemont
+Date of the Event: 05-10-2019
+--------------------------------------------------------------------
+Venue Name: Paramount Theatre-Oakland
+Venue Location: Oakland
+Date of the Event: 08-11-2019
+--------------------------------------------------------------------
+Venue Name: Bellco Theatre
+Venue Location: Denver
+Date of the Event: 11-10-2019
+--------------------------------------------------------------------
+Venue Name: Citizens Business Bank Arena
+Venue Location: Ontario
+Date of the Event: 09-11-2019
+--------------------------------------------------------------------
+Venue Name: The Cutting Room
+Venue Location: New York
+Date of the Event: Invalid date
+--------------------------------------------------------------------
+Venue Name: Nordstock Music Festival
+Venue Location: Ottawa
+Date of the Event: 09-08-2019
+--------------------------------------------------------------------
+Venue Name: Paloma Bar
+Venue Location: Berlin
+Date of the Event: Invalid date
+--------------------------------------------------------------------
+Venue Name: The Plowright Theatre
+Venue Location: Scunthorpe
+Date of the Event: Invalid date
+--------------------------------------------------------------------
+Venue Name: Gypsy Sally's
+Venue Location: Washington
+Date of the Event: Invalid date
+--------------------------------------------------------------------
+Venue Name: MilkBoy Philadelphia
+Venue Location: Philadelphia
+Date of the Event: Invalid date
+--------------------------------------------------------------------
+Venue Name: The Cutting Room
+Venue Location: New York
+Date of the Event: Invalid date
+--------------------------------------------------------------------
+Venue Name: Nordstock Music Festival
+Venue Location: Ottawa
+Date of the Event: 09-08-2019
+--------------------------------------------------------------------
+Venue Name: MilkBoy Philadelphia
+Venue Location: Philadelphia
+Date of the Event: Invalid date
+--------------------------------------------------------------------
+Venue Name: Paloma Bar
+Venue Location: Berlin
+Date of the Event: Invalid date
+--------------------------------------------------------------------
+Venue Name: Gypsy Sally's
+Venue Location: Washington
+Date of the Event: Invalid date
+--------------------------------------------------------------------
+Venue Name: The Plowright Theatre
+Venue Location: Scunthorpe
+Date of the Event: Invalid date
+--------------------------------------------------------------------
+Artist(s): Panic! At The Disco
+Song Name: Hey Look Ma, I Made It
+Album Name: Pray for the Wicked
+Preview Link: https://p.scdn.co/mp3-preview/724c46d8f0fb7ad7277eb244f1f865d33cd1f246?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+--------------------------------------------------------------------
+Artist(s): Train
+Song Name: Hey, Soul Sister
+Album Name: Save Me, San Francisco (Golden Gate Edition)
+Preview Link: https://p.scdn.co/mp3-preview/29d3d8f13d8e96237d765dd61ecd0aa323776a31?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+--------------------------------------------------------------------
+Artist(s): Bon Iver
+Song Name: Hey, Ma
+Album Name: Hey, Ma
+Preview Link: https://p.scdn.co/mp3-preview/7c55076ab2dd2984f487063d9bd203715faea692?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+--------------------------------------------------------------------
+Artist(s): The Lumineers
+Song Name: Ho Hey
+Album Name: The Lumineers
+Preview Link: https://p.scdn.co/mp3-preview/57e57e6eb594e55de01b85cea4d470243f6121f5?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+--------------------------------------------------------------------
+Artist(s): The Beatles
+Song Name: Hey Jude - Remastered 2015
+Album Name: 1 (Remastered)
+Preview Link: null
+--------------------------------------------------------------------
+Artist(s): Plain White T's
+Song Name: Hey There Delilah
+Album Name: All That We Needed
+Preview Link: null
+--------------------------------------------------------------------
+Artist(s): Red Hot Chili Peppers
+Song Name: Snow (Hey Oh)
+Album Name: Stadium Arcadium
+Preview Link: https://p.scdn.co/mp3-preview/bc8d37532bace773a946ed1ab59f4181e632d93a?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+--------------------------------------------------------------------
+Artist(s): KYLE
+Song Name: Hey Julie! (feat. Lil Yachty)
+Album Name: Hey Julie! (feat. Lil Yachty)
+Preview Link: https://p.scdn.co/mp3-preview/bd1734cf81b8d14de69c6c9d7bc85d5c8c24742a?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+--------------------------------------------------------------------
+Artist(s): Avicii
+Song Name: Hey Brother
+Album Name: True
+Preview Link: null
+--------------------------------------------------------------------
+Artist(s): OutKast
+Song Name: Hey Ya!
+Album Name: Speakerboxxx/The Love Below
+Preview Link: https://p.scdn.co/mp3-preview/5d3194868fad490abeed9804ac9c708bd3109da8?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+--------------------------------------------------------------------
+Artist(s): Julia Michaels
+Song Name: Issues
+Album Name: Nervous System
+Preview Link: null
+--------------------------------------------------------------------
+Artist(s): The Neighbourhood
+Song Name: Daddy Issues
+Album Name: Wiped Out!
+Preview Link: https://p.scdn.co/mp3-preview/087accb64df2f5e6bd13e00aa47a9ef84afbdea1?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+--------------------------------------------------------------------
+Artist(s): Teyana Taylor
+Song Name: Issues/Hold On
+Album Name: K.T.S.E.
+Preview Link: null
+--------------------------------------------------------------------
+Artist(s): Korn
+Song Name: Falling Away from Me
+Album Name: Issues
+Preview Link: https://p.scdn.co/mp3-preview/d6841c6cc6d6871bba3e63e78384f49e0d8bbb89?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+--------------------------------------------------------------------
+Artist(s): Chris Brown
+Song Name: Trust Issues / Act In
+Album Name: Indigo
+Preview Link: https://p.scdn.co/mp3-preview/989a6502a08102990f793fb862c5632dcc5bfb84?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+--------------------------------------------------------------------
+Artist(s): Olivia O'Brien
+Song Name: Trust Issues
+Album Name: Trust Issues
+Preview Link: null
+--------------------------------------------------------------------
+Artist(s): PnB Rock
+Song Name: Issues (feat. Russ)
+Album Name: Catch These Vibes
+Preview Link: https://p.scdn.co/mp3-preview/21ffaa9a1fa3c2f428916afd5ee79c796a0ad65a?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+--------------------------------------------------------------------
+Artist(s): Pouya
+Song Name: Daddy Issues
+Album Name: FIVE FIVE
+Preview Link: https://p.scdn.co/mp3-preview/0f9ad52f1ac6f4ee9cb9852db256f24e5c1dee57?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+--------------------------------------------------------------------
+Artist(s): Issues
+Song Name: Tapping Out
+Album Name: Tapping Out
+Preview Link: https://p.scdn.co/mp3-preview/80bb9345eaf10cd7a04e6e68caf4cab20a8c1cad?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+--------------------------------------------------------------------
+Artist(s): Demi Lovato
+Song Name: Daddy Issues
+Album Name: Tell Me You Love Me (Deluxe)
+Preview Link: null
+--------------------------------------------------------------------
+Movie Title: Mr. Nobody
+Year of Release: 2009
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 67%
+Country Produced: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors/Actresses: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+--------------------------------------------------------------------
+Movie Title: Mr. Nobody
+Year of Release: 2009
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 67%
+Country Produced: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors/Actresses: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+--------------------------------------------------------------------
+Artist(s): Backstreet Boys
+Song Name: I Want It That Way
+Album Name: The Hits--Chapter One
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+--------------------------------------------------------------------
+Artist(s): Backstreet Boys
+Song Name: I Want It That Way
+Album Name: Millennium
+Preview Link: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+--------------------------------------------------------------------
+Artist(s): Anthem Lights
+Song Name: I Want It That Way
+Album Name: Covers Part IV
+Preview Link: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+--------------------------------------------------------------------
+Artist(s): Mick Jensen
+Song Name: I Want It That Way
+Album Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+--------------------------------------------------------------------
+Artist(s): Tyler and Mark
+Song Name: I Want It That Way
+Album Name: Beautiful Dreams
+Preview Link: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+--------------------------------------------------------------------
+Artist(s): Backstreet Boys
+Song Name: I Want It That Way - Reimagined
+Album Name: I Want It That Way (Reimagined)
+Preview Link: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+--------------------------------------------------------------------
+Artist(s): "Weird Al" Yankovic
+Song Name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Album Name: Poodle Hat
+Preview Link: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+--------------------------------------------------------------------
+Artist(s): Dynamite Boy
+Song Name: I Want It That Way
+Album Name: Punk Goes Pop
+Preview Link: null
+--------------------------------------------------------------------
+Artist(s): Jess and Gabriel
+Song Name: I Want It That Way
+Album Name: Under the Covers, Vol. 3
+Preview Link: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+--------------------------------------------------------------------
+Artist(s): Backstreet Boys
+Song Name: I Want It That Way
+Album Name: 90 Sweet 90s Hits!
+Preview Link: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=dcdc7ba7d22f4208bb386cd94eb3a820
