@@ -432,3 +432,53 @@ Artist(s): Backstreet Boys
 Song Name: I Want It That Way
 Album Name: 90 Sweet 90s Hits!
 Preview Link: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+--------------------------------------------------------------------
+Artist(s): Lil Wayne
+Song Name: Scared of the Dark (feat. XXXTENTACION)
+Album Name: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+Preview Link: null
+--------------------------------------------------------------------
+Artist(s): Ace of Base
+Song Name: The Sign
+Album Name: The Sign (US Album) [Remastered]
+Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+--------------------------------------------------------------------
+Artist(s): Harry Styles
+Song Name: Sign of the Times
+Album Name: Harry Styles
+Preview Link: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+--------------------------------------------------------------------
+Artist(s): Ty Dolla $ign
+Song Name: Or Nah (feat. The Weeknd, Wiz Khalifa & DJ Mustard) - Remix
+Album Name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+Preview Link: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+--------------------------------------------------------------------
+Artist(s): Dreamville
+Song Name: Got Me (with Ari Lennox & Omen feat. Ty Dolla $ign & Dreezy)
+Album Name: Revenge Of The Dreamers III
+Preview Link: null
+--------------------------------------------------------------------
+Artist(s): Jeremih
+Song Name: Impatient
+Album Name: Late Nights: The Album
+Preview Link: null
+--------------------------------------------------------------------
+Artist(s): Harry Styles
+Song Name: Sign of the Times
+Album Name: Sign of the Times
+Preview Link: https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+--------------------------------------------------------------------
+Artist(s): The Chainsmokers
+Song Name: Do You Mean (with Ty Dolla $ign & bülow)
+Album Name: World War Joy
+Preview Link: https://p.scdn.co/mp3-preview/cd53826cc7865a498b2c3615a396e25297bbc849?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+--------------------------------------------------------------------
+Artist(s): The Chainsmokers
+Song Name: Do You Mean (with Ty Dolla $ign and bülow)
+Album Name: World Wide Joy...Takeaway
+Preview Link: https://p.scdn.co/mp3-preview/cd53826cc7865a498b2c3615a396e25297bbc849?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+--------------------------------------------------------------------
+Artist(s): Jeremih
+Song Name: The Light
+Album Name: The Light
+Preview Link: null
