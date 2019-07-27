@@ -9,19 +9,19 @@ Instructions:
 2. Once there, the app allows you to search where a band is playing in concert, details and link to a searched song, OMDB details about a searched movie or run a script based off of what you have listed in a linked file entitled "random.txt" 
 
 3. To try the first search function you will want to type into your terminal 
-    "node liri.js concert-this <band name>" 
+    "node liri.js concert-this 'band name'" 
 
     The below screenshot is an output of what you should expect to see: 
 ![Concert-this](/images/concert_this.PNG)
 
 4. To try the second second search function, you will want to type into your terminal: 
-    "node liri.js spotify-this-song <song name>" 
+    "node liri.js spotify-this-song 'song name'" 
 
     The below screenshot is an output of what you should expect to see: 
 ![spotifiy-this-song](/images/spotify-this-song.PNG)
 
 5. To try the third search function, you will want to type into your terminal: 
-    "node liri.js movie-this <movie name>" 
+    "node liri.js movie-this 'movie name'" 
 
     The below screenshot is an output of what you should expect to see: 
 ![movie-this](/images/movie-this.PNG)
